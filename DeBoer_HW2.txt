@@ -1,0 +1,31 @@
+##Jon DeBoer's Bioinformatics and Data Science Part II - Homework assignment 2
+#This assignment is about adding code to GitHub - 2/18/2021
+
+#Steps
+
+#While in the directory we want to upload files to GitHub.
+
+#Step 1 - initialize git
+$git init
+
+#Step 2 - add file to staging area for git
+$git add DeBoer_HW1.txt
+
+#Step 2.5 - see if it worked
+$git status
+
+#Step 3 - commit the add with a message
+$git commit -m "message"
+
+#Step 4 - Setup your connection to GitHub
+$git remote add origin [url].git
+
+#Step 4.5 - Check your branch/ are you connected?
+$git branch
+
+#Step 5 - add files to repository
+$git push origin master
+
+#Step 6 - Did it work?
+$git status
+#Also can look at your repository in GitHub!
