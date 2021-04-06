@@ -1,0 +1,988 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Phaethornis",
+          "phaethornis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Phaethornis"
+      },
+      {
+        "from": [
+          "Myiothlypis",
+          "MyIothlypis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Myiothlypis"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Phylloscartes",
+          "Phyllocartes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Phylloscartes"
+      },
+      {
+        "from": [
+          "Boissonneava",
+          "Boissonneaua"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boissonneaua"
+      },
+      {
+        "from": [
+          "Phaethornis",
+          "Phaethoris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Phaethornis"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Boissonneaua",
+          "Boissoneaua"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boissonneaua"
+      },
+      {
+        "from": [
+          "Syndactyla",
+          "Sydactyla"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syndactyla"
+      },
+      {
+        "from": [
+          "Lepidothrix",
+          "Lepidotrix"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lepidothrix"
+      },
+      {
+        "from": [
+          "Scytalopus",
+          "Scytaloptus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Scytalopus"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Iridosornis",
+          "Iridsornis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Iridosornis"
+      },
+      {
+        "from": [
+          "Nephelomyias",
+          "Nephelomyas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nephelomyias"
+      },
+      {
+        "from": [
+          "Glyphorhynchus",
+          "Glyphorynchus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glyphorhynchus"
+      },
+      {
+        "from": [
+          "Rhynchocyclus",
+          "Rynchocyclus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rhynchocyclus"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Myiothlypis",
+          "Myiothylpis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Myiothlypis"
+      },
+      {
+        "from": [
+          "Cyphorinhus",
+          "Cyphorhinus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cyphorinhus"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Helidoxa",
+          "Heliodoxa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heliodoxa"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Phaethornis",
+          "Phaetornis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Phaethornis"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sp.",
+          "sp"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "sp."
+      },
+      {
+        "from": [
+          "xanthogaster",
+          "Xanthogaster"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "xanthogaster"
+      },
+      {
+        "from": [
+          "olivaceus",
+          "Olivaceus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "olivaceus"
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mellivora",
+          "melivora"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mellivora"
+      },
+      {
+        "from": [
+          "rufus",
+          "ruffus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "rufus"
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sex",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Indet."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NA"
+      }
+    ],
+    "description": "Mass edit cells in column sex"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.26136"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'13.6''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.26203"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'20.3''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.26212"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'21.2''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.26257"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'25.7''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.26275"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'27.5''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "10°22'01.0'"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "10°22'01.0''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.26292"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'29.2''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.2631"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'31''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.26382"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'38.2''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.26399"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°26'39.9''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.33847"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°33'84.7''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.33946"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°33'94.6''"
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.34065"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°34'06.5\""
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.34046"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°34'04.6\""
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.34072"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°34'07.2\""
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.34078"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°34'07.8\""
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Latitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3.34136"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3°34'13.6\""
+      }
+    ],
+    "description": "Mass edit cells in column Latitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.34702"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°34'70.2\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.34785"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°34'78.5\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.34894"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°34'89.4\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.34918"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°34'91.8\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.34949"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°34'94.9\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.35105"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°35'10.5\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.35192"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°35'19.2\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.39703"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°39\"70.3\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.39822"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°39'82.2\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.39835"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°39'83.5\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.39921"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°39'92.1\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.39932"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°39'93.2\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.40194"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°40'19.4\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.40235"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°40'23.5\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.4001"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°40'01\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Longitude_Original",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "76.39901"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "76°39'90.1\""
+      }
+    ],
+    "description": "Mass edit cells in column Longitude_Original"
+  }
+]
